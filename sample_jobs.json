@@ -1,0 +1,855 @@
+{
+ "jobs": {
+  "count": 18,
+  "start": 0,
+  "total": 18,
+  "job": [
+   {
+    "id": "90001",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=90001",
+    "active": 1,
+    "company": {
+     "detail": {
+      "name": "(예시) 가나바이오"
+     }
+    },
+    "position": {
+     "title": "[CRO] LC-MS/MS 생체시료 분석 책임연구원 (GLP)",
+     "location": {
+      "code": "",
+      "name": "경기 &gt; 용인시 기흥구"
+     },
+     "industry": {
+      "code": "",
+      "name": "제약·바이오"
+     },
+     "job-mid-code": {
+      "code": "",
+      "name": "연구·R&amp;D"
+     },
+     "job-code": {
+      "code": "",
+      "name": "분석연구원"
+     },
+     "experience-level": {
+      "code": 2,
+      "min": 7,
+      "max": 15,
+      "name": "경력 7년↑"
+     },
+     "required-education-level": {
+      "name": "대학교(4년)↑"
+     }
+    },
+    "keyword": "바이오분석,LC-MS/MS,PK,TK,GLP,밸리데이션",
+    "salary": {
+     "name": "회사내규에 따름"
+    },
+    "posting-timestamp": 1792994508,
+    "expiration-timestamp": 1794290508,
+    "close-type": {
+     "code": "1"
+    }
+   },
+   {
+    "id": "90002",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=90002",
+    "active": 1,
+    "company": {
+     "detail": {
+      "name": "(예시) 다라파마"
+     }
+    },
+    "position": {
+     "title": "DMPK팀 ADME/PK 선임연구원",
+     "location": {
+      "code": "",
+      "name": "경기 &gt; 성남시 분당구"
+     },
+     "industry": {
+      "code": "",
+      "name": "제약"
+     },
+     "job-mid-code": {
+      "code": "",
+      "name": "연구·R&amp;D"
+     },
+     "job-code": {
+      "code": "",
+      "name": "약리연구원"
+     },
+     "experience-level": {
+      "code": 2,
+      "min": 5,
+      "max": 12,
+      "name": "경력 5년↑"
+     },
+     "required-education-level": {
+      "name": "대학교(4년)↑"
+     }
+    },
+    "keyword": "DMPK,ADME,약동학,비임상,대사안정성",
+    "salary": {
+     "name": "회사내규에 따름"
+    },
+    "posting-timestamp": 1792994508,
+    "expiration-timestamp": 1794981708,
+    "close-type": {
+     "code": "1"
+    }
+   },
+   {
+    "id": "90003",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=90003",
+    "active": 1,
+    "company": {
+     "detail": {
+      "name": "(예시) 마바CRO"
+     }
+    },
+    "position": {
+     "title": "임상 1상 생체시료분석 시험책임자(SD) 채용",
+     "location": {
+      "code": "",
+      "name": "경기 &gt; 수원시 영통구"
+     },
+     "industry": {
+      "code": "",
+      "name": "CRO"
+     },
+     "job-mid-code": {
+      "code": "",
+      "name": "연구·R&amp;D"
+     },
+     "job-code": {
+      "code": "",
+      "name": "분석연구원"
+     },
+     "experience-level": {
+      "code": 2,
+      "min": 8,
+      "max": 0,
+      "name": "경력 8년↑"
+     },
+     "required-education-level": {
+      "name": "대학교(4년)↑"
+     }
+    },
+    "keyword": "시료분석,GCLP,임상 1상,ICH M10,SD,CTD",
+    "salary": {
+     "name": "회사내규에 따름"
+    },
+    "posting-timestamp": 1792994508,
+    "expiration-timestamp": 1793685708,
+    "close-type": {
+     "code": "1"
+    }
+   },
+   {
+    "id": "90004",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=90004",
+    "active": 1,
+    "company": {
+     "detail": {
+      "name": "(예시) 사아제약"
+     }
+    },
+    "position": {
+     "title": "올리고뉴클레오타이드(ASO) 분석법 개발 연구원",
+     "location": {
+      "code": "",
+      "name": "경기 &gt; 화성시"
+     },
+     "industry": {
+      "code": "",
+      "name": "제약"
+     },
+     "job-mid-code": {
+      "code": "",
+      "name": "연구·R&amp;D"
+     },
+     "job-code": {
+      "code": "",
+      "name": "분석연구원"
+     },
+     "experience-level": {
+      "code": 2,
+      "min": 3,
+      "max": 10,
+      "name": "경력 3년↑"
+     },
+     "required-education-level": {
+      "name": "대학교(4년)↑"
+     }
+    },
+    "keyword": "ASO,올리고,LC-MS,분석법 개발,밸리데이션",
+    "salary": {
+     "name": "회사내규에 따름"
+    },
+    "posting-timestamp": 1792994508,
+    "expiration-timestamp": 1795413708,
+    "close-type": {
+     "code": "1"
+    }
+   },
+   {
+    "id": "90005",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=90005",
+    "active": 1,
+    "company": {
+     "detail": {
+      "name": "(예시) 자차바이오"
+     }
+    },
+    "position": {
+     "title": "AI 신약개발 데이터 사이언티스트 (PK/PD 모델링)",
+     "location": {
+      "code": "",
+      "name": "서울 &gt; 강남구"
+     },
+     "industry": {
+      "code": "",
+      "name": "바이오"
+     },
+     "job-mid-code": {
+      "code": "",
+      "name": "AI·개발·데이터"
+     },
+     "job-code": {
+      "code": "",
+      "name": "데이터사이언티스트"
+     },
+     "experience-level": {
+      "code": 3,
+      "min": 0,
+      "max": 0,
+      "name": "신입·경력"
+     },
+     "required-education-level": {
+      "name": "대학교(4년)↑"
+     }
+    },
+    "keyword": "AI 신약개발,머신러닝,Python,PK,PD,예측 모델",
+    "salary": {
+     "name": "회사내규에 따름"
+    },
+    "posting-timestamp": 1792994508,
+    "expiration-timestamp": 1794808908,
+    "close-type": {
+     "code": "1"
+    }
+   },
+   {
+    "id": "90006",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=90006",
+    "active": 1,
+    "company": {
+     "detail": {
+      "name": "(예시) 카타테라퓨틱스"
+     }
+    },
+    "position": {
+     "title": "계량약리(Pharmacometrics) 연구원 - PopPK 모델링",
+     "location": {
+      "code": "",
+      "name": "경기 &gt; 성남시 분당구"
+     },
+     "industry": {
+      "code": "",
+      "name": "제약"
+     },
+     "job-mid-code": {
+      "code": "",
+      "name": "연구·R&amp;D"
+     },
+     "job-code": {
+      "code": "",
+      "name": "임상약리"
+     },
+     "experience-level": {
+      "code": 2,
+      "min": 2,
+      "max": 10,
+      "name": "경력 2년↑"
+     },
+     "required-education-level": {
+      "name": "대학교(4년)↑"
+     }
+    },
+    "keyword": "계량약리,PopPK,집단약동학,R,NONMEM,임상약리",
+    "salary": {
+     "name": "회사내규에 따름"
+    },
+    "posting-timestamp": 1792994508,
+    "expiration-timestamp": 1795845708,
+    "close-type": {
+     "code": "1"
+    }
+   },
+   {
+    "id": "90007",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=90007",
+    "active": 1,
+    "company": {
+     "detail": {
+      "name": "(예시) 파하AI"
+     }
+    },
+    "position": {
+     "title": "LLM 기반 의약품 정보 RAG 서비스 개발자",
+     "location": {
+      "code": "",
+      "name": "서울 &gt; 서초구"
+     },
+     "industry": {
+      "code": "",
+      "name": "IT·헬스케어"
+     },
+     "job-mid-code": {
+      "code": "",
+      "name": "AI·개발·데이터"
+     },
+     "job-code": {
+      "code": "",
+      "name": "AI엔지니어"
+     },
+     "experience-level": {
+      "code": 0,
+      "min": 0,
+      "max": 0,
+      "name": "경력무관"
+     },
+     "required-education-level": {
+      "name": "대학교(4년)↑"
+     }
+    },
+    "keyword": "LLM,RAG,Python,약물상호작용,헬스케어",
+    "salary": {
+     "name": "회사내규에 따름"
+    },
+    "posting-timestamp": 1792994508,
+    "expiration-timestamp": 1794463308,
+    "close-type": {
+     "code": "1"
+    }
+   },
+   {
+    "id": "90008",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=90008",
+    "active": 1,
+    "company": {
+     "detail": {
+      "name": "(예시) 거너바이오인포"
+     }
+    },
+    "position": {
+     "title": "바이오인포매틱스 분석가 (멀티오믹스)",
+     "location": {
+      "code": "",
+      "name": "경기 &gt; 수원시 영통구"
+     },
+     "industry": {
+      "code": "",
+      "name": "바이오"
+     },
+     "job-mid-code": {
+      "code": "",
+      "name": "연구·R&amp;D"
+     },
+     "job-code": {
+      "code": "",
+      "name": "생물정보"
+     },
+     "experience-level": {
+      "code": 2,
+      "min": 3,
+      "max": 0,
+      "name": "경력 3년↑"
+     },
+     "required-education-level": {
+      "name": "대학교(4년)↑"
+     }
+    },
+    "keyword": "바이오인포매틱스,오믹스,유전체,Python,R,박사",
+    "salary": {
+     "name": "회사내규에 따름"
+    },
+    "posting-timestamp": 1792994508,
+    "expiration-timestamp": 1795068108,
+    "close-type": {
+     "code": "1"
+    }
+   },
+   {
+    "id": "90009",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=90009",
+    "active": 1,
+    "company": {
+     "detail": {
+      "name": "(예시) 더러신약"
+     }
+    },
+    "position": {
+     "title": "임상약리팀 약동학 분석 담당 (경력)",
+     "location": {
+      "code": "",
+      "name": "서울 &gt; 송파구"
+     },
+     "industry": {
+      "code": "",
+      "name": "제약"
+     },
+     "job-mid-code": {
+      "code": "",
+      "name": "연구·R&amp;D"
+     },
+     "job-code": {
+      "code": "",
+      "name": "임상약리"
+     },
+     "experience-level": {
+      "code": 2,
+      "min": 5,
+      "max": 15,
+      "name": "경력 5년↑"
+     },
+     "required-education-level": {
+      "name": "대학교(4년)↑"
+     }
+    },
+    "keyword": "임상약리,약동학,PK,Phoenix WinNonlin,임상 데이터",
+    "salary": {
+     "name": "회사내규에 따름"
+    },
+    "posting-timestamp": 1792994508,
+    "expiration-timestamp": 1794031308,
+    "close-type": {
+     "code": "1"
+    }
+   },
+   {
+    "id": "90010",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=90010",
+    "active": 1,
+    "company": {
+     "detail": {
+      "name": "(예시) 머버제약"
+     }
+    },
+    "position": {
+     "title": "QC 분석 신입 사원 (HPLC)",
+     "location": {
+      "code": "",
+      "name": "경기 &gt; 평택시"
+     },
+     "industry": {
+      "code": "",
+      "name": "제약"
+     },
+     "job-mid-code": {
+      "code": "",
+      "name": "생산·품질"
+     },
+     "job-code": {
+      "code": "",
+      "name": "품질관리"
+     },
+     "experience-level": {
+      "code": 1,
+      "min": 0,
+      "max": 0,
+      "name": "신입"
+     },
+     "required-education-level": {
+      "name": "대학교(4년)↑"
+     }
+    },
+    "keyword": "QC,HPLC,GMP,단순 QC",
+    "salary": {
+     "name": "회사내규에 따름"
+    },
+    "posting-timestamp": 1792994508,
+    "expiration-timestamp": 1793858508,
+    "close-type": {
+     "code": "1"
+    }
+   },
+   {
+    "id": "90011",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=90011",
+    "active": 1,
+    "company": {
+     "detail": {
+      "name": "(예시) 서어바이오"
+     }
+    },
+    "position": {
+     "title": "바이오분석 LC-MS/MS 연구원",
+     "location": {
+      "code": "",
+      "name": "부산 &gt; 해운대구"
+     },
+     "industry": {
+      "code": "",
+      "name": "바이오"
+     },
+     "job-mid-code": {
+      "code": "",
+      "name": "연구·R&amp;D"
+     },
+     "job-code": {
+      "code": "",
+      "name": "분석연구원"
+     },
+     "experience-level": {
+      "code": 2,
+      "min": 3,
+      "max": 10,
+      "name": "경력 3년↑"
+     },
+     "required-education-level": {
+      "name": "대학교(4년)↑"
+     }
+    },
+    "keyword": "LC-MS/MS,바이오분석,PK",
+    "salary": {
+     "name": "회사내규에 따름"
+    },
+    "posting-timestamp": 1792994508,
+    "expiration-timestamp": 1794636108,
+    "close-type": {
+     "code": "1"
+    }
+   },
+   {
+    "id": "90012",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=90012",
+    "active": 1,
+    "company": {
+     "detail": {
+      "name": "(예시) 저처AI"
+     }
+    },
+    "position": {
+     "title": "AI 신약 플랫폼 MLOps 엔지니어",
+     "location": {
+      "code": "",
+      "name": "서울 &gt; 강남구"
+     },
+     "industry": {
+      "code": "",
+      "name": "IT"
+     },
+     "job-mid-code": {
+      "code": "",
+      "name": "AI·개발·데이터"
+     },
+     "job-code": {
+      "code": "",
+      "name": "MLOps"
+     },
+     "experience-level": {
+      "code": 2,
+      "min": 5,
+      "max": 0,
+      "name": "경력 5년↑"
+     },
+     "required-education-level": {
+      "name": "대학교(4년)↑"
+     }
+    },
+    "keyword": "AI,MLOps,Kubernetes,Python,신약",
+    "salary": {
+     "name": "회사내규에 따름"
+    },
+    "posting-timestamp": 1792994508,
+    "expiration-timestamp": 1795154508,
+    "close-type": {
+     "code": "1"
+    }
+   },
+   {
+    "id": "90013",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=90013",
+    "active": 1,
+    "company": {
+     "detail": {
+      "name": "(예시) 커터헬스"
+     }
+    },
+    "position": {
+     "title": "의료 데이터 분석가 (Python, SQL, Power BI)",
+     "location": {
+      "code": "",
+      "name": "경기 &gt; 안양시 동안구"
+     },
+     "industry": {
+      "code": "",
+      "name": "헬스케어"
+     },
+     "job-mid-code": {
+      "code": "",
+      "name": "AI·개발·데이터"
+     },
+     "job-code": {
+      "code": "",
+      "name": "데이터분석가"
+     },
+     "experience-level": {
+      "code": 3,
+      "min": 0,
+      "max": 5,
+      "name": "신입·경력"
+     },
+     "required-education-level": {
+      "name": "대학교(4년)↑"
+     }
+    },
+    "keyword": "데이터 분석,Python,SQL,Power BI,의료 데이터,헬스케어",
+    "salary": {
+     "name": "회사내규에 따름"
+    },
+    "posting-timestamp": 1792994508,
+    "expiration-timestamp": 1794204108,
+    "close-type": {
+     "code": "1"
+    }
+   },
+   {
+    "id": "90014",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=90014",
+    "active": 1,
+    "company": {
+     "detail": {
+      "name": "(예시) 터퍼CRO"
+     }
+    },
+    "position": {
+     "title": "재택 가능 PK 데이터 리뷰어 (원격근무)",
+     "location": {
+      "code": "",
+      "name": "경기 &gt; 군포시"
+     },
+     "industry": {
+      "code": "",
+      "name": "CRO"
+     },
+     "job-mid-code": {
+      "code": "",
+      "name": "연구·R&amp;D"
+     },
+     "job-code": {
+      "code": "",
+      "name": "데이터관리"
+     },
+     "experience-level": {
+      "code": 2,
+      "min": 5,
+      "max": 0,
+      "name": "경력 5년↑"
+     },
+     "required-education-level": {
+      "name": "대학교(4년)↑"
+     }
+    },
+    "keyword": "PK,데이터 무결성,GLP,약동학,원격",
+    "salary": {
+     "name": "회사내규에 따름"
+    },
+    "posting-timestamp": 1792994508,
+    "expiration-timestamp": 1796709708,
+    "close-type": {
+     "code": "3"
+    }
+   },
+   {
+    "id": "90015",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=90015",
+    "active": 1,
+    "company": {
+     "detail": {
+      "name": "(예시) 허고제약"
+     }
+    },
+    "position": {
+     "title": "제약 영업 MR 경력직",
+     "location": {
+      "code": "",
+      "name": "경기 &gt; 오산시"
+     },
+     "industry": {
+      "code": "",
+      "name": "제약"
+     },
+     "job-mid-code": {
+      "code": "",
+      "name": "영업"
+     },
+     "job-code": {
+      "code": "",
+      "name": "제약영업"
+     },
+     "experience-level": {
+      "code": 2,
+      "min": 2,
+      "max": 10,
+      "name": "경력 2년↑"
+     },
+     "required-education-level": {
+      "name": "대학교(4년)↑"
+     }
+    },
+    "keyword": "영업,MR,제약",
+    "salary": {
+     "name": "회사내규에 따름"
+    },
+    "posting-timestamp": 1792994508,
+    "expiration-timestamp": 1794376908,
+    "close-type": {
+     "code": "1"
+    }
+   },
+   {
+    "id": "90016",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=90016",
+    "active": 1,
+    "company": {
+     "detail": {
+      "name": "(예시) 노도바이오"
+     }
+    },
+    "position": {
+     "title": "펩타이드 신약 비임상 TK 분석 PL",
+     "location": {
+      "code": "",
+      "name": "경기 &gt; 용인시 처인구"
+     },
+     "industry": {
+      "code": "",
+      "name": "바이오"
+     },
+     "job-mid-code": {
+      "code": "",
+      "name": "연구·R&amp;D"
+     },
+     "job-code": {
+      "code": "",
+      "name": "분석연구원"
+     },
+     "experience-level": {
+      "code": 2,
+      "min": 10,
+      "max": 0,
+      "name": "경력 10년↑"
+     },
+     "required-education-level": {
+      "name": "대학교(4년)↑"
+     }
+    },
+    "keyword": "펩타이드,TK,비임상,LC-MS/MS,PL,GLP",
+    "salary": {
+     "name": "회사내규에 따름"
+    },
+    "posting-timestamp": 1792994508,
+    "expiration-timestamp": 1793772108,
+    "close-type": {
+     "code": "1"
+    }
+   },
+   {
+    "id": "90017",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=90017",
+    "active": 1,
+    "company": {
+     "detail": {
+      "name": "(예시) 로모신약"
+     }
+    },
+    "position": {
+     "title": "임상약리 PK 모델링 & ML 연구원",
+     "location": {
+      "code": "",
+      "name": "경기 &gt; 의왕시"
+     },
+     "industry": {
+      "code": "",
+      "name": "제약"
+     },
+     "job-mid-code": {
+      "code": "",
+      "name": "연구·R&amp;D"
+     },
+     "job-code": {
+      "code": "",
+      "name": "임상약리"
+     },
+     "experience-level": {
+      "code": 3,
+      "min": 0,
+      "max": 0,
+      "name": "신입·경력"
+     },
+     "required-education-level": {
+      "name": "대학교(4년)↑"
+     }
+    },
+    "keyword": "임상약리,PK,모델링,머신러닝,Python,MIPD",
+    "salary": {
+     "name": "회사내규에 따름"
+    },
+    "posting-timestamp": 1792994508,
+    "expiration-timestamp": 1794895308,
+    "close-type": {
+     "code": "1"
+    }
+   },
+   {
+    "id": "90018",
+    "url": "https://www.saramin.co.kr/zf_user/jobs/relay/view?rec_idx=90018",
+    "active": 1,
+    "company": {
+     "detail": {
+      "name": "(예시) 보소바이오"
+     }
+    },
+    "position": {
+     "title": "생물정보 연구원 (PyTorch 실무, C++)",
+     "location": {
+      "code": "",
+      "name": "서울 &gt; 마포구"
+     },
+     "industry": {
+      "code": "",
+      "name": "바이오"
+     },
+     "job-mid-code": {
+      "code": "",
+      "name": "AI·개발·데이터"
+     },
+     "job-code": {
+      "code": "",
+      "name": "생물정보"
+     },
+     "experience-level": {
+      "code": 2,
+      "min": 3,
+      "max": 0,
+      "name": "경력 3년↑"
+     },
+     "required-education-level": {
+      "name": "대학교(4년)↑"
+     }
+    },
+    "keyword": "생물정보,딥러닝,PyTorch 실무,C++",
+    "salary": {
+     "name": "회사내규에 따름"
+    },
+    "posting-timestamp": 1792994508,
+    "expiration-timestamp": 1795586508,
+    "close-type": {
+     "code": "1"
+    }
+   }
+  ]
+ }
+}
